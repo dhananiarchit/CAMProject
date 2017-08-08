@@ -1,0 +1,2 @@
+- There are no specific compilation requirements for this code.
+- This code needs fssimplewindow.h and ysglfontdata.h header files.
